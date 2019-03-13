@@ -3,6 +3,7 @@ PROJECT 3
 Angel Rodriguez arodri27
 Thomas Plummer tplumme2
 
+(Big O of our different data structures checking the insert and search times)
 Question 1
 ----------
 Unsorted:

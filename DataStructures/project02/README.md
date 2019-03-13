@@ -1,5 +1,7 @@
 Thomas Plummer & Angel Rodriguez
 tplumme2         arodri27
+(implementation of different sorting methods)
+
 Question 1
 -----------
 STL Sort has a time complexity of O(n\*log(n))
